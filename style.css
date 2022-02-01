@@ -1,0 +1,35 @@
+  .heading
+  {
+    font-size: 25px;
+    background-color: darkgray;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    text-align: center;
+  }
+  .test_image_and_result{
+    border: 1px solid white;
+    font-size: 18px;
+    background-color: yellow;
+    color: darkred;
+    padding: 10px;
+  }
+  .copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+  .mini_result{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+  }
+ 
